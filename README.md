@@ -1,14 +1,10 @@
-<div align="center">
-
 # 👋 Hey, I'm Irtaza
 
-### 💻 Computer Science Student · Full-Stack Developer · Software Engineer in Progress
+### 💻 Computer Science Student · Full-Stack Developer · Aspiring Software Engineer
 
 **5th-Semester Computer Science Student at [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](https://www.pieas.edu.pk/), Islamabad**
 
-*Building software, solving problems, and continuously learning.*
-
-</div>
+*Building software · Solving problems · Learning continuously*
 
 ---
 
@@ -16,7 +12,7 @@
 
 I'm a **Computer Science student at PIEAS** with a strong interest in **Software Engineering, Full-Stack Web Development, and DevOps**.
 
-I enjoy turning ideas into **practical, scalable software** and working across the stack—from creating responsive interfaces with **React** to developing robust backends and REST APIs using **Laravel and Node.js**.
+I enjoy turning ideas into **practical, scalable software** and working across the stack — from building responsive interfaces with **React** to developing robust backends and REST APIs using **Laravel and Node.js**.
 
 My journey in software development is driven by three things:
 
@@ -24,82 +20,82 @@ My journey in software development is driven by three things:
 > 🛠️ **Build meaningful software**
 > 🚀 **Solve real-world problems**
 
-I'm currently focused on strengthening my **software engineering fundamentals**, becoming a better **full-stack developer**, and exploring **DevOps and modern development practices**.
+I'm currently focused on strengthening my **software engineering fundamentals**, becoming a stronger **full-stack developer**, and exploring **DevOps and modern development practices**.
 
 ---
 
 ## ⚡ What I Do
 
-| 💻 Development                | 🧠 Engineering                       | 🚀 Growth                 |
-| ----------------------------- | ------------------------------------ | ------------------------- |
-| Build full-stack applications | Apply DSA & OOP principles           | Learn new technologies    |
-| Design REST APIs              | Write maintainable code              | Explore DevOps            |
-| Develop React interfaces      | Solve complex problems               | Build real-world projects |
-| Develop Laravel backends      | Apply software engineering practices | Improve continuously      |
+| 💻 Development                | 🧠 Engineering             | 🚀 Growth                 |
+| ----------------------------- | -------------------------- | ------------------------- |
+| Build full-stack applications | Apply DSA & OOP principles | Learn new technologies    |
+| Design REST APIs              | Write maintainable code    | Explore DevOps            |
+| Develop React interfaces      | Solve complex problems     | Build real-world projects |
+| Develop Laravel backends      | Apply software engineering | Improve continuously      |
 
 ---
 
-## 💻 Technical Skills
+## 💻 Tech Stack
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### ⚙️ Development & DevOps
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
 </p>
 
 ---
 
 ## 🧠 Computer Science Foundations
 
-* 🧩 Object-Oriented Programming
-* 📚 Data Structures & Algorithms
-* 💻 Operating Systems
-* 🏗️ Software Engineering
-* 🔍 Object-Oriented Analysis & Design
-* 📊 Probability & Statistics
-* 🖥️ Computer Fundamentals
+* 🧩 **Object-Oriented Programming**
+* 📚 **Data Structures & Algorithms**
+* 💻 **Operating Systems**
+* 🏗️ **Software Engineering**
+* 🔍 **Object-Oriented Analysis & Design**
+* 📊 **Probability & Statistics**
+* 🖥️ **Computer Fundamentals**
 
 ---
 
 ## 🛠️ What I'm Currently Working On
 
 ```text
-Full-Stack Web Development
-            ↓
-   React + Laravel + REST APIs
-            ↓
-    Software Engineering
-            ↓
-       DevOps & CI/CD
-            ↓
- Building Scalable Applications
+        Full-Stack Web Development
+                  ↓
+       React + Laravel + REST APIs
+                  ↓
+         Software Engineering
+                  ↓
+            DevOps & CI/CD
+                  ↓
+       Building Scalable Software
 ```
 
 ---
 
 ## 🌱 Currently Learning
 
-`React` · `Laravel` · `REST APIs` · `Node.js` · `DevOps` · `CI/CD`
+`React` · `Laravel` · `Node.js` · `REST APIs` · `DevOps` · `CI/CD`
 
 ---
 
@@ -116,38 +112,18 @@ Full-Stack Web Development
 
 ## 📊 GitHub
 
-<div align="center">
-
-<a href="https://github.com/irtazadevil">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=irtazadevil&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/irtazadevil">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtazadevil&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+I'm continuously building projects, experimenting with new technologies, and improving my development skills through hands-on experience.
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/irtazadevil">
-<img src="https://img.shields.io/badge/GitHub-irtazadevil-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+I'm always interested in **learning, collaborating, and building interesting software projects**.
 
 ---
-
-<div align="center">
 
 ### 💡 *"Build. Learn. Improve. Repeat."*
 
 ⭐ **Thanks for visiting my profile!**
 
 **Let's build something great together. 🚀**
-
-</div>

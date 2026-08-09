@@ -1,141 +1,87 @@
 <div align="center">
 
-# 👋 Hey, I'm Irtaza
+# 👋 Hi, I'm Irtaza
 
-### 💻 Computer Science Student · Full-Stack Developer · Software Engineer in Progress
+### 💻 Computer Science Student | Software Engineer in Progress | Full-Stack Developer
 
 **5th-Semester Computer Science Student at [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](https://www.pieas.edu.pk/), Islamabad**
 
-*Building software · Solving problems · Learning continuously*
+I enjoy building practical, scalable applications and turning real-world problems into software solutions.
 
 </div>
 
 ---
 
-## 🚀 Who I Am
+## 🚀 About Me
 
-I'm a **Computer Science student at PIEAS** with a strong interest in **Software Engineering, Full-Stack Web Development, and DevOps**.
+I'm a Computer Science student with a strong interest in **Software Engineering, Full-Stack Web Development, and DevOps**.
 
-I enjoy turning ideas into **practical, scalable software** and working across the stack — from building responsive interfaces with **React** to developing robust backends and REST APIs using **Laravel and Node.js**.
+I enjoy learning new technologies, solving challenging problems, and building applications that are useful, maintainable, and scalable.
 
-My journey in software development is driven by three things:
-
-> 🧠 **Learn continuously**
-> 🛠️ **Build meaningful software**
-> 🚀 **Solve real-world problems**
-
-I'm currently focused on strengthening my **software engineering fundamentals**, becoming a stronger **full-stack developer**, and exploring **DevOps and modern development practices**.
-
----
-
-## ⚡ What I Do
-
-| 💻 Development                | 🧠 Engineering             | 🚀 Growth                 |
-| ----------------------------- | -------------------------- | ------------------------- |
-| Build full-stack applications | Apply DSA & OOP principles | Learn new technologies    |
-| Design REST APIs              | Write maintainable code    | Explore DevOps            |
-| Develop React interfaces      | Solve complex problems     | Build real-world projects |
-| Develop Laravel backends      | Apply software engineering | Improve continuously      |
+* 🎓 5th-semester Computer Science student at **PIEAS**
+* 💻 Interested in **Software Engineering & Full-Stack Development**
+* 🌱 Currently strengthening my skills in **React, Laravel & DevOps**
+* 🔧 Experienced with **REST APIs, Git, GitHub & Travis CI**
+* 🧠 Passionate about **problem solving and software design**
+* 🚀 Always learning and building
 
 ---
 
-# 💻 Tech Stack
+## 💻 Technical Skills
 
-### 🌐 Frontend Development
+### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
-
-**HTML · CSS · JavaScript · React · Vite**
-
----
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" />
-</p>
-
-**PHP · Laravel · Node.js · Express**
-
----
-
-### 🗄️ Databases & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
-
-**MySQL · PostgreSQL · MongoDB · REST APIs**
-
----
 
 ### 👨‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**C · C++ · Java · Python · JavaScript**
-
----
-
-### 🛠️ Tools & Development
+### ⚙️ Development & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
 </p>
-
-**Git · GitHub · VS Code · Postman · npm**
-
----
-
-### ☁️ DevOps & CI/CD
-
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,docker,linux" />
-</p>
-
-**GitHub Actions · Docker · Linux · CI/CD · Travis CI**
 
 ---
 
 ## 🧠 Computer Science Foundations
 
-* 🧩 **Object-Oriented Programming**
-* 📚 **Data Structures & Algorithms**
-* 💻 **Operating Systems**
-* 🏗️ **Software Engineering**
-* 🔍 **Object-Oriented Analysis & Design**
-* 📊 **Probability & Statistics**
-* 🖥️ **Computer Fundamentals**
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Operating Systems
+* Software Engineering
+* Object-Oriented Analysis & Design
+* Probability & Statistics
+* Computer Fundamentals
 
 ---
 
 ## 🛠️ What I'm Currently Working On
 
 ```text
-        Full-Stack Web Development
-                  ↓
-       React + Laravel + REST APIs
-                  ↓
-         Software Engineering
-                  ↓
-            DevOps & CI/CD
-                  ↓
-       Building Scalable Software
+Full-Stack Web Development
+        ↓
+React + Laravel + REST APIs
+        ↓
+Software Engineering
+        ↓
+DevOps & CI/CD
+        ↓
+Building Scalable Applications
 ```
-
----
-
-## 🌱 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,laravel,nodejs,docker,linux,githubactions" />
-</p>
-
-`React` · `Laravel` · `Node.js` · `REST APIs` · `Docker` · `DevOps` · `CI/CD`
 
 ---
 
@@ -155,11 +101,11 @@ I'm currently focused on strengthening my **software engineering fundamentals**,
 <div align="center">
 
 <a href="https://github.com/irtazadevil">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=irtazadevil&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irtazadevil&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 </a>
 
 <a href="https://github.com/irtazadevil">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtazadevil&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtazadevil&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </a>
 
 </div>
@@ -171,7 +117,7 @@ I'm currently focused on strengthening my **software engineering fundamentals**,
 <div align="center">
 
 <a href="https://github.com/irtazadevil">
-  <img src="https://img.shields.io/badge/GitHub-irtazadevil-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-irtazadevil-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -180,9 +126,7 @@ I'm currently focused on strengthening my **software engineering fundamentals**,
 
 <div align="center">
 
-### 💡 *"Build. Learn. Improve. Repeat."*
-
-⭐ **Thanks for visiting my profile!**
+### ⭐ Thanks for visiting my profile!
 
 **Let's build something great together. 🚀**
 

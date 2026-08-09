@@ -2,7 +2,7 @@
 
 ### 💻 Computer Science Student · Full-Stack Developer · Aspiring Software Engineer
 
-**5th-Semester Computer Science Student at** **[Pakistan Institute of Engineering and Applied Sciences (PIEAS)](https://www.pieas.edu.pk/)**, Islamabad
+**5th-Semester Computer Science Student at** [**Pakistan Institute of Engineering and Applied Sciences (PIEAS)**](https://www.pieas.edu.pk/), Islamabad
 
 *Building software · Solving problems · Learning continuously*
 
@@ -44,7 +44,6 @@ I'm currently focused on strengthening my **software engineering fundamentals**,
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
@@ -52,7 +51,6 @@ I'm currently focused on strengthening my **software engineering fundamentals**,
 * **CSS3** — Create responsive layouts, animations, and modern user interfaces.
 * **JavaScript** — Build interactive and dynamic web applications.
 * **React** — Develop reusable component-based user interfaces.
-* **Tailwind CSS** — Build responsive interfaces using utility-first styling.
 * **Vite** — Fast development and build tooling for modern frontend applications.
 
 ### 👨‍💻 Programming Languages
@@ -89,14 +87,12 @@ I'm currently focused on strengthening my **software engineering fundamentals**,
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 * **Git & GitHub** — Version control, collaboration, branching, and project management.
-* **GitHub Actions** — Automate testing, builds, and CI/CD workflows.
 * **Travis CI** — Explore continuous integration and automated software delivery.
 * **Linux** — Develop familiarity with command-line tools and development environments.
 * **VS Code** — Primary development environment for building and debugging applications.

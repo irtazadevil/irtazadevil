@@ -1,148 +1,53 @@
-## 👋 Hi, I'm Irtaza
+<div align="center">
 
-I'm a **5th-semester Computer Science student at the Pakistan Institute of Engineering and Applied Sciences (PIEAS), Islamabad**, with a strong interest in **software engineering and web development**.
+# 👋 Hey, I'm Irtaza
 
-I enjoy building practical, scalable applications and continuously improving my problem-solving and development skills. My current development stack includes **React, Larav<div align="center">
+### 💻 Computer Science Student · Full-Stack Developer · Software Engineer in Progress
 
-# 👋 Hi, I'm Irtaza
-
-### 💻 Computer Science Student | Software Engineer in Progress | Full-Stack Developer
-
-**5th-Semester Computer Science Student at [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](https://www.pieas.edu.pk/), Islamabad**
-
-I enjoy building practical, scalable applications and turning real-world problems into software solutions.
+<p>
+  <a href="https://github.com/irtazadevil">
+    <img src="https://img.shields.io/badge/GitHub-irtazadevil-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/PIEAS-Computer%20Science-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-2EA44F?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 Who I Am
 
-I'm a Computer Science student with a strong interest in **Software Engineering, Full-Stack Web Development, and DevOps**.
+I'm a **5th-semester Computer Science student at PIEAS, Islamabad**, passionate about turning ideas into **practical, scalable software**.
 
-I enjoy learning new technologies, solving challenging problems, and building applications that are useful, maintainable, and scalable.
+I enjoy working across the stack—from designing responsive interfaces with **React** to building robust backends and REST APIs with **Laravel and Node.js**.
 
-* 🎓 5th-semester Computer Science student at **PIEAS**
-* 💻 Interested in **Software Engineering & Full-Stack Development**
-* 🌱 Currently strengthening my skills in **React, Laravel & DevOps**
-* 🔧 Experienced with **REST APIs, Git, GitHub & Travis CI**
-* 🧠 Passionate about **problem solving and software design**
-* 🚀 Always learning and building
+My journey in software development is driven by three things:
 
----
+> 🧠 **Learn continuously**
+> 🛠️ **Build meaningful software**
+> 🚀 **Solve real-world problems**
 
-## 💻 Technical Skills
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-### 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### ⚙️ Development & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
-</p>
+I'm currently focused on growing as a **full-stack developer**, strengthening my **software engineering fundamentals**, and exploring **DevOps and modern development practices**.
 
 ---
 
-## 🧠 Computer Science Foundations
+### ⚡ What I Do
 
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Operating Systems
-* Software Engineering
-* Object-Oriented Analysis & Design
-* Probability & Statistics
-* Computer Fundamentals
+| 💻 Development                | 🧠 Engineering             | 🚀 Growth                 |
+| ----------------------------- | -------------------------- | ------------------------- |
+| Build full-stack applications | Apply DSA & OOP principles | Learn new technologies    |
+| Design REST APIs              | Write maintainable code    | Explore DevOps            |
+| Develop React interfaces      | Solve complex problems     | Build real-world projects |
 
 ---
 
-## 🛠️ What I'm Currently Working On
+### 🌱 Currently Learning
 
-```text
-Full-Stack Web Development
-        ↓
-React + Laravel + REST APIs
-        ↓
-Software Engineering
-        ↓
-DevOps & CI/CD
-        ↓
-Building Scalable Applications
-```
-
----
-
-## 🎯 Current Goals
-
-* 🚀 Become a stronger **Full-Stack Developer**
-* 🧠 Improve **Data Structures & Algorithms**
-* 🏗️ Build scalable and maintainable applications
-* ⚙️ Learn more about **DevOps & CI/CD**
-* 🌱 Explore modern software engineering practices
-* 💡 Continue building real-world projects
-
----
-
-## 📊 GitHub
+`React` · `Laravel` · `REST APIs` · `Node.js` · `DevOps` · `CI/CD`
 
 <div align="center">
 
-<a href="https://github.com/irtazadevil">
-  <img src="https://github-readme-stats.vercel.app/api?username=irtazadevil&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-</a>
-
-<a href="https://github.com/irtazadevil">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtazadevil&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</a>
+### 💡 *"Build. Learn. Improve. Repeat."*
 
 </div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/irtazadevil">
-  <img src="https://img.shields.io/badge/GitHub-irtazadevil-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Let's build something great together. 🚀**
-
-</div>
-el, REST APIs, Node.js, Git, GitHub, and Travis CI**, along with programming experience in **C, C++, Java, and JavaScript**.
-
-### 💻 Technical Background
-
-* **Web Development:** React, Laravel, REST APIs, Node.js
-* **Programming Languages:** C, C++, Java, JavaScript
-* **Development & DevOps:** Git, GitHub, Travis CI
-* **Core Computer Science:** Object-Oriented Programming, Data Structures & Algorithms, Operating Systems, Software Engineering, Object-Oriented Analysis & Design
-* **Mathematics & Foundations:** Probability & Statistics, Computer Fundamentals
-
-I'm passionate about **learning new technologies, solving challenging problems, and building software that solves real-world problems**. I'm currently focused on strengthening my skills in **full-stack web development, software engineering, and DevOps**.

@@ -1,71 +1,76 @@
-<div align="center">
+# 👋 Hey, I'm Irtaza
 
-# 👋 Hi, I'm Irtaza
-
-### 💻 Computer Science Student | Software Engineer in Progress | Full-Stack Developer
+### 💻 Computer Science Student · Full-Stack Developer · Aspiring Software Engineer
 
 **5th-Semester Computer Science Student at [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](https://www.pieas.edu.pk/), Islamabad**
 
-I enjoy building practical, scalable applications and turning real-world problems into software solutions.
-
-</div>
+*Building software, solving problems, and continuously learning.*
 
 ---
 
-## 🚀 About Me
+## 🚀 Who I Am
 
-I'm a Computer Science student with a strong interest in **Software Engineering, Full-Stack Web Development, and DevOps**.
+I'm a **Computer Science student at PIEAS** with a strong interest in **Software Engineering, Full-Stack Web Development, and DevOps**.
 
-I enjoy learning new technologies, solving challenging problems, and building applications that are useful, maintainable, and scalable.
+I enjoy turning ideas into **practical, scalable software** and working across the stack — from building responsive interfaces with **React** to developing robust backends and REST APIs using **Laravel and Node.js**.
 
-* 🎓 5th-semester Computer Science student at **PIEAS**
-* 💻 Interested in **Software Engineering & Full-Stack Development**
-* 🌱 Currently strengthening my skills in **React, Laravel & DevOps**
-* 🔧 Experienced with **REST APIs, Git, GitHub & Travis CI**
-* 🧠 Passionate about **problem solving and software design**
-* 🚀 Always learning and building
+My journey in software development is driven by three things:
+
+> 🧠 **Learn continuously**
+> 🛠️ **Build meaningful software**
+> 🚀 **Solve real-world problems**
+
+I'm currently focused on strengthening my **software engineering fundamentals**, becoming a better **full-stack developer**, and exploring **DevOps and modern development practices**.
 
 ---
 
-## 💻 Technical Skills
+## ⚡ What I Do
+
+| 💻 Development                | 🧠 Engineering                       | 🚀 Growth                 |
+| ----------------------------- | ------------------------------------ | ------------------------- |
+| Build full-stack applications | Apply DSA & OOP principles           | Learn new technologies    |
+| Design REST APIs              | Write maintainable code              | Explore DevOps            |
+| Develop React interfaces      | Solve complex problems               | Build real-world projects |
+| Develop Laravel backends      | Apply software engineering practices | Improve continuously      |
+
+---
+
+## 🛠️ Technical Skills
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+* **React**
+* **Laravel**
+* **Node.js**
+* **REST APIs**
+* **JavaScript**
+* **HTML5 & CSS3**
 
 ### 👨‍💻 Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+* **C**
+* **C++**
+* **Java**
+* **JavaScript**
 
 ### ⚙️ Development & DevOps
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
-</p>
+* **Git**
+* **GitHub**
+* **Travis CI**
+* **CI/CD**
 
 ---
 
 ## 🧠 Computer Science Foundations
 
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Operating Systems
-* Software Engineering
-* Object-Oriented Analysis & Design
-* Probability & Statistics
-* Computer Fundamentals
+* 🧩 **Object-Oriented Programming**
+* 📚 **Data Structures & Algorithms**
+* 💻 **Operating Systems**
+* 🏗️ **Software Engineering**
+* 🔍 **Object-Oriented Analysis & Design**
+* 📊 **Probability & Statistics**
+* 🖥️ **Computer Fundamentals**
 
 ---
 
@@ -73,15 +78,21 @@ I enjoy learning new technologies, solving challenging problems, and building ap
 
 ```text
 Full-Stack Web Development
-        ↓
-React + Laravel + REST APIs
-        ↓
-Software Engineering
-        ↓
-DevOps & CI/CD
-        ↓
-Building Scalable Applications
+            ↓
+   React + Laravel + REST APIs
+            ↓
+    Software Engineering
+            ↓
+       DevOps & CI/CD
+            ↓
+ Building Scalable Applications
 ```
+
+---
+
+## 🌱 Currently Learning
+
+`React` · `Laravel` · `REST APIs` · `Node.js` · `DevOps` · `CI/CD`
 
 ---
 
@@ -98,36 +109,18 @@ Building Scalable Applications
 
 ## 📊 GitHub
 
-<div align="center">
-
-<a href="https://github.com/irtazadevil">
-  <img src="https://github-readme-stats.vercel.app/api?username=irtazadevil&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-</a>
-
-<a href="https://github.com/irtazadevil">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtazadevil&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</a>
-
-</div>
+I'm continuously building projects, experimenting with new technologies, and improving my development skills through hands-on experience.
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/irtazadevil">
-  <img src="https://img.shields.io/badge/GitHub-irtazadevil-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
+I'm always interested in **learning, collaborating, and building interesting software projects**.
 
 ---
 
-<div align="center">
+### 💡 *"Build. Learn. Improve. Repeat."*
 
-### ⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 **Let's build something great together. 🚀**
-
-</div>
